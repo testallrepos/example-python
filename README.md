@@ -1,6 +1,6 @@
 # [:] Example Python Project
 
-An example python project to demostrate [srcclr](https://www.srcclr.com) scans.
+An example python project to demonstrate [srcclr](https://www.srcclr.com) scans.
 
 ## Try me!
 
