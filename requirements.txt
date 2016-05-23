@@ -1,2 +1,5 @@
 django==1.6.2
 ipython==3.2.0
+qpid-python==0.32.1
+filebrowser_safe==0.1
+PyJWT==0.1.1
