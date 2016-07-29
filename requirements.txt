@@ -1,4 +1,4 @@
-django==1.6.2
+django==1.7
 ipython==3.2.0
 qpid-python==0.32.1
 filebrowser_safe==0.1
