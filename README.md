@@ -1,5 +1,5 @@
 
-# [:] Example Pythonerffsad
+# [:] Example Python
 
 
 An example Python project to demonstrate [srcclr](https://www.srcclr.com) scans.
