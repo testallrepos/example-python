@@ -1,5 +1,5 @@
 
-# [:] Example Python
+# [:] Example Python2w
 
 An example Python project to demonstrate [srcclr](https://www.srcclr.com) scans.
 
